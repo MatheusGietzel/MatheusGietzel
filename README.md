@@ -1,6 +1,6 @@
 ### <b/> Oioi, seja bem vindo(a)! Eu sou o Matheus, mas todo mundo me chama de Gietzel ✌️
 
-- 💻 Atualmente estou estudando front-end 
+- 💻 Atualmente estudando desenvolvimento
 - 🔍 Estou buscando uma oportunidade
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
 - 🧬 Extra: Sou formado em Biomedicina e sou pós-graduando em Bioinformática 🤓
