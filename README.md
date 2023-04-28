@@ -1,9 +1,9 @@
 ### <b/> Oioi, seja bem vindo(a)! Eu sou o Matheus, mas todo mundo me chama de Gietzel ✌️
 
-- 💻 Atualmente estudando desenvolvimento
-- 🔍 Estou buscando uma oportunidade
-- 📚 Cursando Análise e Desenvolvimento de Sistemas
-- 🧬 Extra: Sou formado em Biomedicina e sou pós-graduando em Bioinformática 🤓
+- 💻 Atualmente estudando desenvolvimento front-end / Currently studying front-end development
+- 🔍 Estou buscando uma oportunidade / Seeking an opportunity
+- 📚 Cursando Análise e Desenvolvimento de Sistemas / Enrolled in Systems Analysis and Development.
+- 🧬 Extra: Sou formado em Biomedicina e sou pós-graduando em Bioinformática🤓 / I have a degree in Biomedicine and i'm pursuing a post-graduate degree in Bioinformatics.🤓
 
 ##
 
