@@ -1,4 +1,4 @@
-### <b/> Oioi, seja bem vindo(a)! Eu sou o Matheus, mas todo mundo me chama de Gietzel ✌️
+### <b/> Oioi, seja bem vindo(a)! Eu sou o Matheus, mas todo mundo me chama de Gezel ✌️
 
 - 💻 Atualmente estudando desenvolvimento front-end / Currently studying front-end development
 - 🔍 Estou buscando uma oportunidade / Seeking an opportunity
