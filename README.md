@@ -21,7 +21,7 @@
   <img align="center" alt="Math-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Math-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Math-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/QYhAWdOpQxmgpJTYtM/200.webp">
+  <img align="right" alt="Gezel-pic" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/QYhAWdOpQxmgpJTYtM/200.webp">
 
 <div/>
 
