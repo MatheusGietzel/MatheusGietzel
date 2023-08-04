@@ -3,7 +3,7 @@
 - 💻 Atualmente estudando desenvolvimento front-end / Currently studying front-end development
 - 🔍 Estou buscando uma oportunidade / Seeking an opportunity
 - 📚 Cursando Análise e Desenvolvimento de Sistemas / Enrolled in Systems Analysis and Development.
-- 🧬 Extra: Sou formado em Biomedicina e sou pós-graduando em Bioinformática / I have a degree in Biomedicine and i'm pursuing a post-graduate degree in Bioinformatics.🤓
+- 🧬 Extra: Sou formado em Biomedicina e sou pós-graduado em Bioinformática / I have a degree in Biomedical Sciences and post-graduated in Bioinformatics.🤓
 
 ##
 
