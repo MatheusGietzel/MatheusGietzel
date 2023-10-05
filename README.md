@@ -1,7 +1,6 @@
 ### <b/> Oioi, seja bem vindo(a)! Eu sou o Matheus, mas todo mundo me chama de Gezel ✌️
 
-- 💻 Atualmente estudando desenvolvimento front-end / Currently studying front-end development
-- 🔍 Estou buscando uma oportunidade / Seeking an opportunity
+- 💻 Atualmente estudando ciência de dados / Currently studying Data Science
 - 📚 Cursando Análise e Desenvolvimento de Sistemas / Enrolled in Systems Analysis and Development.
 - 🧬 Extra: Sou formado em Biomedicina e sou pós-graduado em Bioinformática / I have a degree in Biomedical Sciences and post-graduated in Bioinformatics.🤓
 
