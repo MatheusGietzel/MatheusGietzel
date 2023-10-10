@@ -14,11 +14,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGietzel&layout=compact&theme=dark)
 ##
 
-### Minhas stacks:
+### Minhas ferramentas:
 <div style="display: inline_block">
   <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Math-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
   <img align="center" alt="Math-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Math-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
+  
+  
+          
 
           
   <img align="right" alt="Gezel-pic" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/QYhAWdOpQxmgpJTYtM/200.webp">
