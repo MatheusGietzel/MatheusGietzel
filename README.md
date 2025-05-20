@@ -1,4 +1,4 @@
-### <b/> Oioi, seja bem vindo(a)! Eu sou o Matheus, mas todo mundo me chama de Gezel ✌️
+### <b/> Olá, seja bem vindo(a)! Eu sou o Matheus✌️
 
 - 💻 Atualmente estudando ciência de dados / Currently studying Data Science
 - 📚 Cursando Análise e Desenvolvimento de Sistemas / Enrolled in Systems Analysis and Development.
