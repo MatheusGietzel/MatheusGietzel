@@ -22,8 +22,6 @@
   <img align="center" alt="Math-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
   <img align="center" alt="Math-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
 
-  <img align="center" alt="Math-SQL" height="30" width="40" src="https://credentials.databricks.com/12f90921-2070-4d81-8df2-6d867b92e2bb#acc.EaJ4R1CI">
-
   
           
 
