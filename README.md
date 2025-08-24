@@ -3,6 +3,7 @@
 - 💻 Atualmente estudando ciência de dados / Currently studying Data Science
 - 📚 Cursando Análise e Desenvolvimento de Sistemas / Enrolled in Systems Analysis and Development.
 - 🧬 Extra: Sou formado em Biomedicina e sou pós-graduado em Bioinformática / I have a degree in Biomedical Sciences and post-graduated in Bioinformatics.🤓
+- 💸 Extra 2: Também sou especialista certificado em investimentos/ Also an certified Investment Specialist
 
 ##
 
